@@ -14,7 +14,7 @@ A Youtube account Linked to your twitch (https://www.twitch.tv/settings/connecti
 
 **How to Use**
 1. Download the script [Here](https://github.com/mrtylergamer/Twitch-VOD-Exporter/raw/main/Twitch%20Auto%20Export.user.js)
-2. Goto Twitch Video producer (https://dashboard.twitch.tv/u/YOUR USERNAME/content/video-producer)
+2. Goto Twitch Video producer (https://dashboard.twitch.tv/u/YOUR_USERNAME/content/video-producer)
 3. Let the script run
 4. When its done Press export (This is intentional to prevent Violating Twitch TOS)
 
