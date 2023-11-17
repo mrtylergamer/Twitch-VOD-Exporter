@@ -7,7 +7,7 @@ Unknown if this has issues with twitch tos
 
 All I ask if you do edit or publish this code is some credit (and maybe a follow on twitch 😂 https://twitch.tv/mrtylergamer)
 
-**Requirements** 
+**Requirements**                                                                                                       
 Tampermonkey (https://www.tampermonkey.net/index.php)
 
 A Youtube account Linked to your twitch (https://www.twitch.tv/settings/connections)
